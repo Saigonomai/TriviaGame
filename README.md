@@ -7,3 +7,6 @@ It also demonstrates an understanding of Javascript, HTML, and CSS to a level wh
 When the webpage first loads, a button will appear that read "start".
 Pressing this button starts the game and the user then has 30 seconds to answer the provided trivia questions.
 The user is then scored based on how many answers were correct. incorrect. and unanswered.
+
+## Link to Deployed Site
+[Trivia Game](https://saigonomai.github.io/TriviaGame/)
